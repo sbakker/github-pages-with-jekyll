@@ -1,3 +1,7 @@
+---
+title: "My First Blog Post"
+date: 2022-08-23
+---
 # Just a test
 
 Well, alright, here's some code:
