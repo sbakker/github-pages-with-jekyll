@@ -12,6 +12,9 @@ github_username:  sbakker # DO NOT include the @ character, or else the build wi
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+plugins:
+  - jekyll-remote-theme
+
 remote_theme: jekyll/minima
 minima:
   skin: solarized
