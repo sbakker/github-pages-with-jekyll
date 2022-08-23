@@ -17,5 +17,5 @@ plugins:
 
 remote_theme: jekyll/minima
 minima:
-  skin: solarized
+  skin: dark
   
