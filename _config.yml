@@ -1,5 +1,5 @@
 title: Random thoughts on random things
-theme: minima
+
 author: Steven Bakker
 email: sb@monkey-mind.net
 description: > # this means to ignore newlines until "baseurl:"
@@ -12,6 +12,7 @@ github_username:  sbakker # DO NOT include the @ character, or else the build wi
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+remote_theme: jekyll/minima
 minima:
   skin: solarized
   
