@@ -1,7 +1,7 @@
 title: Blog Bloggety Blog McBlog
 
 author: Steven Bakker
-email: sb@monkey-mind.net
+#email: sb@monkey-mind.net
 description: > # this means to ignore newlines until "baseurl:"
   Blog of Steven Bakker, mostly related to software development and
   related technology... Nowadays, I mostly code in Perl and Bash.
