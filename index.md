@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Random thoughts on random things"
 ---
 
-I'm glad you are here. I plan to talk about ...
+A place to jot down my musings.
