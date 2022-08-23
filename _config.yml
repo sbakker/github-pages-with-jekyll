@@ -13,4 +13,5 @@ github_username:  sbakker # DO NOT include the @ character, or else the build wi
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 minima:
-  skin: dark
+  skin: solarized
+  
